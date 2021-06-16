@@ -16,7 +16,7 @@ resource "aws_s3_bucket" "data" {
     git_modifiers        = "matt"
     git_org              = "metahertz"
     git_repo             = "deployablegoat"
-    yor_trace            = "a6f0a6ed-0f82-455a-81d0-04b00fd4bb6b"
+    yor_trace            = "893b9f39-9e36-4c16-b859-d27a2931f082"
   }
 }
 
