@@ -8,6 +8,6 @@ terraform {
   backend "s3" {
     bucket = "deployablegoat-test"
     key    = "s3state/deployablegoat"
-    region = var.region
+    region = "us-east-2"
   }
 }
