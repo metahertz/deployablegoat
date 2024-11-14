@@ -18,11 +18,11 @@ locals {
 
 
 variable "profile" {
-  default = "default"
+  default = "AdminDevRel-552455647653"
 }
 
 variable "region" {
-  default = "us-east-2"
+  default = "eu-west-2"
 }
 
 variable ami {
